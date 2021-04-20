@@ -7,4 +7,5 @@ package test;
  * @Description :
  */
 public class gitTest {
+    String name;
 }
